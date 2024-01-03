@@ -21,7 +21,7 @@ retriver:
   id2tool_file: ./assets/doc2tool.json
 
 bing:
-  api_key:  # fill your own key here
+  api_key:  dc0650f479bf4d1b895efcfc0fdb2c0e
   endpoint: https://api.bing.microsoft.com/v7.0/search
 
 huggingface:

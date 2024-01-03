@@ -1,11 +1,11 @@
 api_keys:
   gpt-3.5-turbo-16k:
-    - api_key: sk-xxxxx
-      organization: org-xxxxx
+    - api_key: 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
+      organization: org-eIcZWpOdpDvX0r1W1jeGBVvb
       model: gpt-3.5-turbo-16k
-    - api_key: sk-xxxxx
-      organization: org-xxxxxx
-      model: gpt-3.5-turbo-16k
+   # - api_key: sk-xxxxx
+    #  organization: org-xxxxxx
+     # model: gpt-3.5-turbo-16k
 
 default_request_type: openai
 default_completion_kwargs:
